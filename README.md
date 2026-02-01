@@ -474,7 +474,7 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-**Lynda - 2026**
+**Lynda & Ndeye Pathe  - 2026**
 
 Built with ❤️ using Python, Kubernetes, and modern microservices patterns.
 
